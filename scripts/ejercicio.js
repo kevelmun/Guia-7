@@ -1,6 +1,6 @@
 let ejecutarCodigo = () => { 
     
-    alert("Hola, mundo!");
+    
     let element = document.getElementById("titulo1")
     element.textContent="Album de fotos"
 
